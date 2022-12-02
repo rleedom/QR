@@ -1,0 +1,8 @@
+Go to the documents directory:
+	cd documents
+
+Go to the GUI directory:
+	cd GUI
+
+Type this:
+	pyinstaller --onefile --windowed GUI-V1.py
